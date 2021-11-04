@@ -11,4 +11,4 @@ Here are the questions:
 2. What is Android Studio built on?
 3. What is the IDE that is used to create native iOS apps?
 4. What is the protocol that the TraceTogether app and tokens use to communicate with one another?
-5. Is QuikMessage the most awesome messaging app ever?  
+5. Is Covid-19 a pain in the ASS?  
